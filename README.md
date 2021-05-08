@@ -1,4 +1,5 @@
 # Parallel-Computing-Final-project
+***link to short video of the project is also in About***
 We were asked to write a program that receives input:
 A file that contains encrypted words
 The encryption operation was done with some key and simple xor.
